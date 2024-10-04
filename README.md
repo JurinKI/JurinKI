@@ -1,4 +1,4 @@
-## Hi there 👋
+## <h1 align="center"> Hi I'm Jukrin 🎈</h1>
 
 # 🚀 Stack
 <div align="center">
