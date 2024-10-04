@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-
+# 🚀 Stack
 <div align="center">
 
-# 🚀 Stack
 ### Languages:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,11 +30,9 @@
 
 </div>  
 
-
+# 📊 GitHub Stats:
 <div align="center">
  
-# 📊 GitHub Stats:
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JurinKI&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JurinKI&theme=radical)
