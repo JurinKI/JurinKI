@@ -3,7 +3,7 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://githubstat-git-main-doctoey.vercel.app/api?username=doctoey&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://githubstat-git-main-doctoey.vercel.app/api?username=doctoey&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doctoey&theme=aura_dark&hide_border=false)<br/>
 ![](https://githubstat-git-main-doctoey.vercel.app/api/top-langs/?username=doctoey&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
